@@ -18,6 +18,7 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
+    "@langchain/ollama": "^0.1.5",
     "ollama": "^0.5.12"
   }
 }
