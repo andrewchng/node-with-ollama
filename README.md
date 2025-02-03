@@ -1,13 +1,13 @@
 # node-with-ollama
 
-https://ollama.com/ > install this and download model of your choice. Can use a smaller model is your machine cannot handle the larger model.
+https://ollama.com/ > install this and download model of your choice. Can use a smaller model if your machine cannot handle the larger model.
 
 Smaller model with 1b parameters
 ```bash
 ollama run llama3.2:1b 
 ```
 
-Larger model with 1b parameters
+Larger model with 3b parameters
 ```bash
 ollama run llama3.2:3b 
 ```
